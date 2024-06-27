@@ -19,7 +19,7 @@ const projectsData = [
     title: "MEME SHARE APP",
     description: "I have created an Android app using Kotlin and Android Studio. This app is called “MEME SHARE” and it lets you view and share funny memes with your friends. It has a simple interface that shows you a random meme from an API and two buttons for sharing and moving to the next meme. I learned how to use Kotlin, XML, and emulator tools. I also learned how to make API calls and use libraries like Volley and Glide",
     image: "/images/projects/2.png",
-    tag: ["All", "Mobile"],
+    tag: ["All", "App/Web"],
     gitUrl: "https://github.com/Navadeepaluvoju/memesapp/",
     previewUrl: "https://github.com/Navadeepaluvoju/memesapp/",
   },
@@ -29,12 +29,31 @@ const projectsData = [
     description: "The app has a colorful background with a cake image and a text reading “Happy Birthday”. When the user taps on the screen, they are prompted to enter the name of the recipient and then send a personalized message. The app also displays a toast message confirming that the wish has been sent",
     
     image: "/images/projects/3.png",
-    tag: ["All", "Mobile"],
+    tag: ["All", "App/Web"],
     gitUrl: "https://github.com/Navadeepaluvoju/Brithdaycard/",
     previewUrl: "https://github.com/Navadeepaluvoju/Brithdaycard/",
   },
   
- 
+  {
+    id: 4,
+    title: "SADA ANNAPURA",
+    description: "Sada Annapurna a wordpres website stands as a beacon of hope and compassion. By bridging the gap between those who have surplus and those in need, it transforms what would be waste into sustenance. This ensures that no one has to suffer from hunger. Sada Annapurna embodies the spirit of generosity and community. It reminds us that together, we can build a hunger-free nation",
+    
+    image: "/images/projects/12.png",
+    tag: ["All", "App/Web"],
+    gitUrl: "https://sadaannapurna.wordpress.com/",
+    previewUrl: "https://sadaannapurna.wordpress.com/",
+  },
+  {
+    id: 5,
+    title: "SAVIOUR ",
+    description: "An wordpress website under which all rescue agencies are registered and which can display the location of other rescue relief agencies during natural/ man made calamities and by your information every one can get the alerts throw e-mails.",
+    
+    image: "/images/projects/11.png",
+    tag: ["All", "App/Web"],
+    gitUrl: "https://cruxtechies.wordpress.com/",
+    previewUrl: "https://cruxtechies.wordpress.com/",
+  },
 ];
 
 const ProjectsSection = () => {
@@ -73,7 +92,7 @@ const ProjectsSection = () => {
         />
         <ProjectTag
           onClick={handleTagChange}
-          name="aw"
+          name="App/Web"
           isSelected={tag === "App/Web"}
         />
       </div>
