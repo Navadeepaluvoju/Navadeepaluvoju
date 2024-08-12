@@ -37,7 +37,7 @@ const projectsData = [
   {
     id: 4,
     title: "SADA ANNAPURA",
-    description: "Sada Annapurna a wordpress website stands as a beacon of hope and compassion. By bridging the gap between those who have surplus and those in need, it transforms what would be waste into sustenance. This ensures that no one has to suffer from hunger. Sada Annapurna embodies the spirit of generosity and community. It reminds us that together, we can build a hunger-free nation",
+    description: "Sada Annapurna a wordpres website stands as a beacon of hope and compassion. By bridging the gap between those who have surplus and those in need, it transforms what would be waste into sustenance. This ensures that no one has to suffer from hunger. Sada Annapurna embodies the spirit of generosity and community. It reminds us that together, we can build a hunger-free nation",
     
     image: "/images/projects/12.png",
     tag: ["All", "App/Web"],
@@ -53,6 +53,16 @@ const projectsData = [
     tag: ["All", "App/Web"],
     gitUrl: "https://cruxtechies.wordpress.com/",
     previewUrl: "https://cruxtechies.wordpress.com/",
+  },
+  {
+    id: 6,
+    title: "Supervised Fine-Tuning of LLMs",
+    description: "Supervised fine-tuning involves training a pre-trained LLM on a dataset that contains labeled examples. This means the model learns to map inputs to the correct outputs by minimizing a loss function, which measures the difference between the model &apos; predictions and the actual labels",
+    
+    image: "/images/projects/6.png",
+    tag: ["All", "AI/ML"],
+    gitUrl: "https://github.com/Navadeepaluvoju/llm_supervised-",
+    previewUrl: "https://github.com/Navadeepaluvoju/llm_supervised-",
   },
 ];
 
