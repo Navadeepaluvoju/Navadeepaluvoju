@@ -53,9 +53,9 @@ const TAB_DATA = [
     id: "Internships",
     content: (
       <ul className="list-disc pl-2">
-       <li><b>PHN Technology Pvt.Ltd</b> (Machincelearning intern)</li>
-        <li><b>Salesforce</b> (Salesforce Developer intern)</li>
-      
+       <li><b>PHN Technology Pvt.Ltd</b> (Machincelearning Intern)</li>
+        <li><b>Salesforce</b> (Salesforce Developer Intern)</li>
+             <li><b>Recruit CRM(SDET Intern)</li>
       </ul>
     ),
   },
