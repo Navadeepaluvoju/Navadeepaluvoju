@@ -59,7 +59,7 @@ const projectsData = [
     title: "Supervised Fine-Tuning of LLMs",
     description: "Supervised fine-tuning involves training a pre-trained LLM on a dataset that contains labeled examples. This means the model learns to map inputs to the correct outputs by minimizing a loss function, which measures the difference between the model &apos; predictions and the actual labels",
     
-    image: "/images/projects/6.png",
+    image: "6.png",
     tag: ["All", "AI/ML"],
     gitUrl: "https://github.com/Navadeepaluvoju/llm_supervised-",
     previewUrl: "https://github.com/Navadeepaluvoju/llm_supervised-",
