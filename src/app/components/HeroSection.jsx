@@ -27,7 +27,7 @@ const HeroSection = () => {
                 "Business Developement and 
                   AI/ML Enthusiast",
                 1000,
-                "App Developer",
+                "Software Tester",
                 1000,
                 "UI/UX Designer",
                 1000,
