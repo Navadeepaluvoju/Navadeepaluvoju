@@ -96,9 +96,9 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-              I&apos;m a passionate AI/ML enthusiast and I&apos;m in my final year of Computer Science with AIML specialization. I&apos;ve honed my skills in application development using Java, Python, C, Kotlin, and other relevant languages.
+              I&apos;m a passionate AI/ML enthusiast and  I&apos;ve honed my skills in application development using Java, Python, C, Kotlin, and other relevant languages.
 
-My interests extend to application development, where I create user-centric experiences that seamlessly blend form and function. I possess excellent communication and interpersonal skills, with a proven ability to build strong relationships and foster collaborative environments. Demonstrated eagerness to learn and contribute to innovative projects.
+My interests extend to application development,Web development,Software testing  where I create user-centric experiences that seamlessly blend form and function. I possess excellent communication and interpersonal skills, with a proven ability to build strong relationships and foster collaborative environments. Demonstrated eagerness to learn and contribute to innovative projects.
           </p>
           <div className="flex flex-row justify-start mt-8">
             {TAB_DATA.map((tabItem) => (
