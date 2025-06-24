@@ -23,19 +23,10 @@ const projectsData = [
     gitUrl: "https://github.com/Navadeepaluvoju/memesapp/",
     previewUrl: "https://github.com/Navadeepaluvoju/memesapp/",
   },
-  {
-    id: 3,
-    title: "Brithdaycard App",
-    description: "The app has a colorful background with a cake image and a text reading “Happy Birthday”. When the user taps on the screen, they are prompted to enter the name of the recipient and then send a personalized message. The app also displays a toast message confirming that the wish has been sent",
-    
-    image: "/images/projects/3.png",
-    tag: ["All", "App/Web"],
-    gitUrl: "https://github.com/Navadeepaluvoju/Brithdaycard/",
-    previewUrl: "https://github.com/Navadeepaluvoju/Brithdaycard/",
-  },
+
   
   {
-    id: 4,
+    id: 3,
     title: "SADA ANNAPURA",
     description: "Sada Annapurna a wordpres website stands as a beacon of hope and compassion. By bridging the gap between those who have surplus and those in need, it transforms what would be waste into sustenance. This ensures that no one has to suffer from hunger. Sada Annapurna embodies the spirit of generosity and community. It reminds us that together, we can build a hunger-free nation",
     
@@ -43,6 +34,16 @@ const projectsData = [
     tag: ["All", "App/Web"],
     gitUrl: "https://sadaannapurna.wordpress.com/",
     previewUrl: "https://sadaannapurna.wordpress.com/",
+  },
+    {
+    id: 4,
+    title: "Brithdaycard App",
+    description: "The app has a colorful background with a cake image and a text reading “Happy Birthday”. When the user taps on the screen, they are prompted to enter the name of the recipient and then send a personalized message. The app also displays a toast message confirming that the wish has been sent",
+    
+    image: "/images/projects/3.png",
+    tag: ["All", "App/Web"],
+    gitUrl: "https://github.com/Navadeepaluvoju/Brithdaycard/",
+    previewUrl: "https://github.com/Navadeepaluvoju/Brithdaycard/",
   },
   {
     id: 5,
@@ -59,7 +60,7 @@ const projectsData = [
     title: "Supervised Fine-Tuning of LLMs",
     description: "Supervised fine-tuning involves training a pre-trained LLM on a dataset that contains labeled examples. This means the model learns to map inputs to the correct outputs by minimizing a loss function, which measures the difference between the model &apos; predictions and the actual labels",
     
-    image: "6.png",
+    image: "/images/projects/6.png",
     tag: ["All", "AI/ML"],
     gitUrl: "https://github.com/Navadeepaluvoju/llm_supervised-",
     previewUrl: "https://github.com/Navadeepaluvoju/llm_supervised-",
