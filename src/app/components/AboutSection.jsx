@@ -72,7 +72,7 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
        <li><b>PHN Technology Pvt.Ltd</b> (Machincelearning Intern)</li>
         <li><b>Salesforce</b> (Salesforce Developer Intern)</li>
-             <li><b>Recruit CRM(SDET Intern)</li>
+           <li><b>Recruit CRM</b> (SDET Intern)</li>
       </ul>
     ),
   },
