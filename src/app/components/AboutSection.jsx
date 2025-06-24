@@ -29,7 +29,23 @@ const TAB_DATA = [
       </ul>
     ),
   },
-  
+
+   {
+    title: "Certifications",
+    id: "Certifications",
+    content: (
+      <ul className="list-disc pl-2">
+      <li>Java Programming – Coursera</li>
+      <li>ISTQB Certified Tester, 2024</li>
+      <li>Selenium with Java – Udemy, 2024</li>
+      <li>Git and GitHub Bootcamp – Udemy, 2024</li>
+      <li>AWS essentials – 2025</li>
+      <li>Rest API testing + Postman</li>
+   
+     
+      </ul>
+    ),
+  },
   {
     title: "Education",
     id: "education",
