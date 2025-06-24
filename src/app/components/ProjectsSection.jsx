@@ -37,23 +37,23 @@ const projectsData = [
   },
     {
     id: 4,
-    title: "Brithdaycard App",
-    description: "The app has a colorful background with a cake image and a text reading “Happy Birthday”. When the user taps on the screen, they are prompted to enter the name of the recipient and then send a personalized message. The app also displays a toast message confirming that the wish has been sent",
+    title: "Applying-ML-to-Identify-Malicious-Behavior",
+    description: "This project is a Flask-based web application that enables users to input data and receive real-time predictions using Natural Language Processing (NLP) and Logistic Regression. The app includes a login system, home dashboard, and a detection page for analyzing user input—perfect for text classification tasks like sentiment analysis or spam detection.",
     
     image: "/images/projects/3.png",
-    tag: ["All", "App/Web"],
-    gitUrl: "https://github.com/Navadeepaluvoju/Brithdaycard/",
-    previewUrl: "https://github.com/Navadeepaluvoju/Brithdaycard/",
+    tag: ["All", "AI/ML"],
+    gitUrl: "https://github.com/Navadeepaluvoju/Applying-ML-to-Identify-Malicious-Behavior.git",
+    previewUrl: "https://github.com/Navadeepaluvoju/Applying-ML-to-Identify-Malicious-Behavior.git",
   },
   {
     id: 5,
-    title: "SAVIOUR ",
-    description: "An wordpress website under which all rescue agencies are registered and which can display the location of other rescue relief agencies during natural/ man made calamities and by your information every one can get the alerts throw e-mails.",
+    title: "PREDICTING-HOSPITAL-STAY-LENGTH-USING-KNN-REGRESSOR-OPTIMIZED-WITH-GRID-SEARCH-CV",
+    description: "Efficient bed management is essential for minimizing hospital costs, improving efficiency, and enhancing patient outcomes. This study introduces a predictive framework for forecasting hospital-ICU length of stay (LOS) at admission, leveraging hospital EHR data. Unlike prior work, which heavily relied on advanced tree-based models, this research proposes a K-Nearest Neighbors (KNN) model with hyper-parameter optimization using Grid-Search CV for predicting ICU patients’ LOS. The KNN model effectively classifies patients into short and long LOS categories by learning patterns in clinical information systems (CIS). To ensure robustness, we evaluated the model using various performance metrics, including Accuracy, AUC, Sensitivity, Specificity, F1-score, Precision, and Recall. The optimized KNN model demonstrated competitive predictive performance with improved interpretability compared to traditional complex models. Additionally, explainable artificial intelligence (xAI) techniques were incorporated to provide transparent insights into the decision-making process, further enhancing the trustworthiness of the predictions. This work highlights the potential of using machine learning models like KNN for reliable, interpretable, and efficient ICU LOS prediction, aiding hospitals in improving resource allocation and patient care outcomes." give it in two line description",
     
     image: "/images/projects/11.png",
-    tag: ["All", "App/Web"],
-    gitUrl: "https://cruxtechies.wordpress.com/",
-    previewUrl: "https://cruxtechies.wordpress.com/",
+    tag: ["All", "AI/ML"],
+    gitUrl: "https://github.com/Navadeepaluvoju/PREDICTING-HOSPITAL-STAY-LENGTH-USING-KNN-REGRESSOR-OPTIMIZED-WITH-GRID-SEARCH-CV.git",
+    previewUrl: "https://github.com/Navadeepaluvoju/PREDICTING-HOSPITAL-STAY-LENGTH-USING-KNN-REGRESSOR-OPTIMIZED-WITH-GRID-SEARCH-CV.git",
   },
   {
     id: 6,
