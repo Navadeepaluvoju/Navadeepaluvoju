@@ -13,6 +13,7 @@ const TAB_DATA = [
         <li>Python</li>
         <li>Mysql</li>
         <li>C</li>
+         <li>Kotlin</li>
         <li>Machine Learning</li>
         <li>Software testing </li>
         
