@@ -1,4 +1,4 @@
-# Navadeep Aluvoju
+# 👋 Hello! I'm Navadeep Aluvoju
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/navadeep-aluvoju)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/navadeepaluvoju)
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year B.Tech student in Computer Science with a specialization in Artificial Intelligence and Machine Learning. My passion lies in building intelligent systems that solve real-world problems. I’ve developed machine learning models, tested production-level applications, and built data validation dashboards. With strong foundations in Python, Java, and ML, I aim to contribute to high-impact projects that blend data, software, and clean design.
+I'm a final-year B.Tech student in Computer Science Engineering with a specialization in Artificial Intelligence & Machine Learning. I build smart, data-driven solutions through machine learning, full-stack development, and QA automation. With hands-on experience in both product-based and service-oriented internships, I bring a versatile and pragmatic approach to technology.
 
 ---
 
@@ -23,18 +23,22 @@ _Nov 2021 – Jul 2025_
 
 ## 💼 Internship Experience
 
-**Machine Learning Intern**  
-PHN Technologies Pvt. Ltd. (Remote)  
-_Apr 2023 – Jun 2023_  
-- Built classification models on healthcare data using Python and scikit-learn  
-- Applied EDA, feature selection, and model optimization via GridSearchCV  
-- Delivered dashboards and reports for internal analysis  
+### 🧪 **QA Intern – Recruit CRM**  
+_Sep 2024 – Jan 2025 | Remote_  
+- Performed manual and automated testing using Selenium WebDriver, TestNG, and Postman.  
+- Discovered UI and functional bugs on developer staging environments.  
+- Wrote and maintained test cases, collaborated with developers to validate hotfixes, and contributed to CI processes using Maven and Jenkins.
 
-**Virtual Internship**  
-Salesforce Developer Ecosystem  
+### 🧠 **Machine Learning Intern – PHN Technologies Pvt. Ltd.**  
+_Apr 2023 – Jun 2023 | Remote_  
+- Built classification models using Python and scikit-learn on healthcare datasets.  
+- Applied feature selection and GridSearchCV to improve model performance.  
+- Delivered insights through visualization and reporting dashboards.
+
+### ☁️ **Salesforce Virtual Internship**  
 _May 2024 – Jun 2024_  
-- Completed Apex Specialist, Process Automation, Developer Super Set badges  
-- Developed mock CRM features and flows using declarative tools  
+- Completed Apex Specialist, Process Automation, and Developer Super Set modules.  
+- Built automation flows, validation rules, and data models in a simulated CRM environment.
 
 ---
 
@@ -42,51 +46,50 @@ _May 2024 – Jun 2024_
 
 **Languages:** Java, Python, C/C++, SQL  
 **ML & Data Science:** scikit-learn, pandas, NumPy, GridSearchCV, NLP  
-**Tools:** Git, GitHub, Jupyter, VS Code, Postman, Selenium  
-**Web:** HTML, CSS, Flask, Firebase (basic)  
-**Soft Skills:** Collaboration, adaptability, quick learning, communication
+**QA & Testing:** Selenium, TestNG, Postman, POM, Rest Assured  
+**Web & Tools:** HTML, CSS, Flask, Git, GitHub, Firebase (basic), VS Code  
+**Soft Skills:** Collaboration, analytical thinking, fast learner, adaptability
 
 ---
 
-## 📊 Dashboards & Data Visual Work
+## 📊 Dashboards & Visual Work
 
-### [📈 Faulty Result Analysis System](https://gnitcexams.vercel.app/)
-Web dashboard that detects discrepancies in academic marksheets using real-time logic and frontend validation.
+### 🔍 [Faulty Result Analysis System](https://gnitcexams.vercel.app/)
+A web dashboard to detect discrepancies in academic data. Uses rule-based logic to identify faulty marksheets with improved accuracy and faster detection.
 
-### [🆘 SAVIOUR – Rescue Coordination UI](https://www.figma.com/proto/n624uq7PPue67Oor9tRTGN/saviour1)
-Figma prototype for disaster response teams with location-based tracking, alert systems, and user-friendly flows.
-
----
-
-## 💡 Projects
-
-### [🧠 ICU Stay Prediction (KNN)](https://github.com/Navadeepaluvoju/PREDICTING-HOSPITAL-STAY-LENGTH-USING-KNN-REGRESSOR-OPTIMIZED-WITH-GRID-SEARCH-CV)
-KNN model using GridSearchCV to predict ICU length of stay from EHR data.
-
-### [📨 Spam Detection with NLP](https://github.com/Navadeepaluvoju/Applying-ML-to-Identify-Malicious-Behavior)
-Text classification using logistic regression + NLP, deployed via Flask app.
-
-### [🍽️ SADA ANNAPURNA – Food Redistribution System](https://sadaannapurna.wordpress.com)
-Volunteer-led initiative to map surplus food sources to NGO collection points.
+### 🆘 [SAVIOUR – Emergency Coordination UI/UX](https://www.figma.com/proto/n624uq7PPue67Oor9tRTGN/saviour1)
+Mobile-first interface designed in Figma to assist emergency response teams. Includes rescue tracking, alert flows, and optimized dashboard layout.
 
 ---
 
-## 🌍 Languages
+## 💡 Featured Projects
+
+### 🧠 [ICU Stay Prediction (KNN)](https://github.com/Navadeepaluvoju/PREDICTING-HOSPITAL-STAY-LENGTH-USING-KNN-REGRESSOR-OPTIMIZED-WITH-GRID-SEARCH-CV)
+GridSearch-optimized KNN model predicting ICU patient stay duration using EHR datasets.
+
+### 💬 [Spam Detection with NLP](https://github.com/Navadeepaluvoju/Applying-ML-to-Identify-Malicious-Behavior)
+Text classifier built with Logistic Regression and NLP pipeline. Real-time prediction interface via Flask web app.
+
+### 🍽️ [SADA ANNAPURNA – Food Redistribution Tracker](https://sadaannapurna.wordpress.com)
+Volunteer-driven initiative to map surplus food donors to collection points for NGOs and shelters.
+
+---
+
+## 🌐 Languages
 
 - **English:** Proficient  
 - **Hindi:** Fluent  
 - **Telugu:** Native  
-- **Japanese:** Learning (for cross-border roles)
+- **Japanese:** Learning (for global tech collaboration)
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: navadeepaluvoju0012@gmail.com  
-- 🌐 Website: [navadeepaluvoju.vercel.app](https://navadeepaluvoju.vercel.app)  
+- ✉️ Email: navadeepaluvoju0012@gmail.com  
+- 🌐 Portfolio: [navadeepaluvoju.vercel.app](https://navadeepaluvoju.vercel.app)  
 - 🔗 LinkedIn: [linkedin.com/in/navadeep-aluvoju](https://linkedin.com/in/navadeep-aluvoju)
 
 ---
 
-> ⚡ *I'm currently looking for full-time roles and internships in ML, QA, or data-focused software development. I'm open to learning new tools, languages, and even new cultures like Japanese! Let's connect.*
-
+> 💡 I'm actively looking for full-time roles or internships in Machine Learning, QA Engineering, or Full-Stack Development. I'm driven by curiosity, collaboration, and meaningful impact—let’s build something great together!
