@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year B.Tech student in Computer Science Engineering with a specialization in Artificial Intelligence & Machine Learning. I build smart, data-driven solutions through machine learning, full-stack development, and QA automation. With hands-on experience in both product-based and service-oriented internships, I bring a versatile and pragmatic approach to technology.
+I’m Navadeep Aluvoju, a recent B.Tech Computer Science graduate specializing in AI & ML, passionate about building intelligent systems and ensuring software products are both scalable and reliable. I build smart, data-driven solutions through machine learning, full-stack development, and QA automation. With hands-on experience in both product-based and service-oriented internships, I bring a versatile and pragmatic approach to technology.
 
 ---
 
@@ -17,7 +17,7 @@ I'm a final-year B.Tech student in Computer Science Engineering with a specializ
 **B.Tech – Computer Science Engineering (AI & ML)**  
 Guru Nanak Institutions Technical Campus, Hyderabad  
 _Nov 2021 – Jul 2025_  
-**CGPA:** 8.2 / 10
+**CGPA:** 8.3 / 10
 
 ---
 
@@ -80,7 +80,6 @@ Volunteer-driven initiative to map surplus food donors to collection points for 
 - **English:** Proficient  
 - **Hindi:** Fluent  
 - **Telugu:** Native  
-- **Japanese:** Learning (for global tech collaboration)
 
 ---
 
